@@ -105,3 +105,13 @@ a {
     color-scheme: dark;
   }
 }
+.Fine {
+  color:green;
+  font-size: 50px;
+  font-weight: 700;
+}
+.Bad {
+  color: red;
+  font-size: 50px;
+  font-weight: 700;
+}
